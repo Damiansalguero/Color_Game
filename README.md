@@ -4,7 +4,7 @@
 
 The idea of this project was to create a little game. Randomly rgb colors are created and the idea is to pick the right one.
 
-The whole project is siple HTML, CSS, and Javascript
+The whole project is based on simple HTML, CSS, and Javascript
 
 
 
