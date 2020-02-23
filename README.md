@@ -12,6 +12,6 @@ The whole project is siple HTML, CSS, and Javascript
 
 
 
-![](Color_Game/screenshots/screenshot1.png?raw=true "Optional Title")
-![](Color_Game/screenshots/screenshot2.png?raw=true "Optional Title")
-![](Color_Game/screenshots/screenshot4.png?raw=true "Optional Title")
+![](/screenshots/screenshot1.png?raw=true "Optional Title")
+![](/screenshots/screenshot2.png?raw=true "Optional Title")
+![](/screenshots/screenshot4.png?raw=true "Optional Title")
